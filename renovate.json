@@ -3,7 +3,7 @@
     "config:base"
   ],
   "autodiscover": true,
-  "autodiscoverFilter": "bcgov/nr-quickstart-typescript",
+  "autodiscoverFilter": "bcgov/citz-von",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "configMigration": true,
   "configWarningReuseIssue": true,
